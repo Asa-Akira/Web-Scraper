@@ -7,3 +7,5 @@ AsAkira Team members:
 	ARudka
 	IhorSymoni
 	Mazurec777
+
+This team was named such way 'cause we don't know why...
